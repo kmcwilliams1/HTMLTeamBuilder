@@ -1,0 +1,30 @@
+{
+  "name": "HTMLTeamBuilder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.1.2",
+    "jest": "^27.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmcwilliams1/HTMLTeamBuilder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmcwilliams1/HTMLTeamBuilder/issues"
+  },
+  "homepage": "https://github.com/kmcwilliams1/HTMLTeamBuilder#readme"
+}
