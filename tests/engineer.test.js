@@ -1,6 +1,6 @@
 const Engineer = require("../lib/Engineer");
 
-it('able to set an employees name throught the contructor or something like that ', () => {
+it('able to set an engineers name throught the contructor or something like that ', () => {
     const testValue = "engineer Name"
     const engineer = new Engineer(testValue)
     expect(engineer.name).toBe(testValue)

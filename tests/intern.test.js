@@ -27,6 +27,6 @@ const idValue = 1234
 const emailValue = "email@email.com"
 const schoolValue = "Ringling Bros. and Barnum & Bailey Clown College"
 const intern = new Intern(testValue, idValue, emailValue, schoolValue)
-expect(engineer.school).toBe(schoolValue)
+expect(intern.school).toBe(schoolValue)
     });
     
